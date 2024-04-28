@@ -1,4 +1,4 @@
-!/bin/bash
+#!/bin/bash
 
 #skrypt do usuwania e-maili z pliku
 
